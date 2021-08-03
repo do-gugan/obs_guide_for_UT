@@ -9,4 +9,10 @@
   - 原音忠実というより分析で見返して疲れない聞き取りやすい音声を意識
 
 ## ダウンロード
-[Release](https://github.com/do-gugan/obs_guide_for_UT/releases)から最新版PDFを取得してください。
+[Release](https://github.com/do-gugan/obs_guide_for_UT/releases)から最新版PDFを取得してください。  
+  
+  
+  
+  
+## クレジット
+[いらすとや](https://www.irasutoya.com/)
