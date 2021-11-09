@@ -12,7 +12,9 @@
 [Release](https://github.com/do-gugan/obs_guide_for_UT/releases)から最新版PDFを取得してください。  
   
   
-  
+## 更新履歴
+- 2021.11 mp4形式とmkv形式の違いについて、WebSocketを使って遠隔操作について追記
+- 2011.07 初版公開
   
 ## クレジット
 [いらすとや](https://www.irasutoya.com/)
